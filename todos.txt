@@ -1,0 +1,2 @@
+Deployar nuestra aplicacion
+Probar que funcione la app
